@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-mlflow
-scikit-learn
-pandas
-joblib
-requests
-tk
